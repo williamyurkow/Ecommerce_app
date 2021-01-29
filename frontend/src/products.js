@@ -7,7 +7,7 @@ const products = [
     brand: 'Mid Mod',
     category: 'Furniture',
     price: 1049.99,
-    countInStock: 10,
+    countInStock: 3,
     rating: 4.5,
     numReviews: 12,
   },
