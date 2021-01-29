@@ -76,6 +76,5 @@ const ProductPage = ({ match }) => {
     </>
   )
 }
-// 9 - 3:39 You just finished making the back button on this page. You get to it by going to /product/1 in the browser.
 
 export default ProductPage
