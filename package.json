@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce_app",
+  "version": "1.0.0",
+  "description": "Ecommerce App made with React, Express, Node, Mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamyurkow/Ecommerce_app.git"
+  },
+  "author": "William Yurkow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamyurkow/Ecommerce_app/issues"
+  },
+  "homepage": "https://github.com/williamyurkow/Ecommerce_app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
