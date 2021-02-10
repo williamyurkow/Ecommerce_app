@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Vintage Emerald Green Sofa',
     image: '/images/vintageemeraldgreensofa.jpg',
     description: '',
@@ -12,7 +11,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Mid Century Modern Leather Sofa',
     image: '/images/vintageleathersofa.jpg',
     description: '',
@@ -24,7 +22,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Mid Century Modern Chair',
     image: '/images/midcenturymodernchair.jpg',
     description: '',
@@ -36,7 +33,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Mid Century Modern High Chair',
     image: '/images/midcenturymodernhighchair.jpg',
     description: '',
@@ -48,7 +44,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Danish Teak Armoire',
     image: '/images/danishteakarmoire.jpg',
     description: '',
@@ -60,7 +55,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Danish Teak Chair',
     image: '/images/danishteakchair.jpg',
     description: '',
